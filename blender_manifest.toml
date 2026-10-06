@@ -1,0 +1,22 @@
+schema_version = "1.0.0"
+
+id = "audio_oven_trigger"
+version = "1.0.0"
+name = "Audio Oven Trigger"
+tagline = "Animation driven audio trigger system"
+maintainer = "Baraka Chacha"
+type = "add-on"
+
+website = "https://github.com/editorbaraka8-collab/audio-oven-trigger"
+support = "https://github.com/editorbaraka8-collab/audio-oven-trigger/issues"
+
+tags = ["Sequencer", "Geometry Nodes"]
+
+blender_version_min = "5.2.0"
+
+license = [
+    "SPDX:GPL-3.0-or-later",
+]
+
+[permissions]
+files = "Read the audio file you choose to create sound strips"
